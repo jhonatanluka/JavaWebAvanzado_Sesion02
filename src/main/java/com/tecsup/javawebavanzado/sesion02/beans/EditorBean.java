@@ -2,10 +2,11 @@ package com.tecsup.javawebavanzado.sesion02.beans;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
-
+ 
+// Nuevas Caracteristicas
 
 /**
- *  Clase de ejemplo -- Nuevo cambio
+ *  Clase de ejemplo -- Nuevo cambio 
  *
  */
 @ManagedBean
