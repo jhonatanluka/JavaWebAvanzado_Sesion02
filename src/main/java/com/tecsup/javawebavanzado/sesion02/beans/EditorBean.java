@@ -3,6 +3,11 @@ package com.tecsup.javawebavanzado.sesion02.beans;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
+
+/**
+ *  Clase de ejemplo
+ *
+ */
 @ManagedBean
 @RequestScoped
 public class EditorBean {
