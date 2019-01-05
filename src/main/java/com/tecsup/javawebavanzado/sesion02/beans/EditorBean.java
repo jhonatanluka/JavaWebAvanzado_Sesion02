@@ -5,7 +5,7 @@ import javax.faces.bean.RequestScoped;
 
 
 /**
- *  Clase de ejemplo
+ *  Clase de ejemplo -- Nuevo cambio
  *
  */
 @ManagedBean
